@@ -2,4 +2,4 @@
 weather tracker app
 
 ## Output app
-![Output Result](output/output.jpg)
+![Output Result](output/output.png)
