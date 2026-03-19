@@ -1,5 +1,5 @@
 # Web-dev-II_Assignment-2
 weather tracker app
 
-## Output app
+## Output of website code 
 ![Output Result](output/output.png)
